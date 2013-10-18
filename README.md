@@ -1,9 +1,9 @@
 SmartRSSlocaljsFR
 =================
 
-FR locale for SmartRSS addon
+FR locale for SmartRSS Opera 16 + addon
 
-Traduction FR de l'extension SmartRSS pour Opera  
+Traduction FR de l'extension SmartRSS pour Opera  16+
 
 Original par ra-mon, modifié élégamment par Trent,
 
